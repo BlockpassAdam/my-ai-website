@@ -106,6 +106,17 @@ body {
     width: 100%;
 }
 
+/* Utility Classes */
+.brand-block {
+    color: #e53e3e; /* Striking Crimson */
+    font-weight: 800;
+}
+
+.brand-pass {
+    color: #38a169; /* Vibrant Green */
+    font-weight: 800;
+}
+
 /* Hero Base */
 .hero {
     padding: 10rem 0;
